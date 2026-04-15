@@ -25,7 +25,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/password-strength-checker.git  
+git clone https://github.com/KartikChhabra29/password-strength-checker.git  
 Open the index.html file in your preferred web browser.
 
 Usage
